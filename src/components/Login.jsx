@@ -20,6 +20,8 @@ export default function Login() {
 /* ilk görev tamam
 
 */
+/* ikinci görev tamam
+ */
   return (
     <form onSubmit={handleSubmit} className="login-form">
       <h2>Login</h2>
